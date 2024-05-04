@@ -15,9 +15,9 @@ uses
   Classes, SysUtils, StrUtils, Forms, LCLIntf, fphttpclient, fpjson, jsonparser, Dialogs, bioFunctions;
 
 const
-  PAGE_URL_REST     = 'http://biotronics.eu';
-  PAGE_URL_EN       = 'https://biotronics.eu';
-  PAGE_URL_PL       = 'https://biotronika.pl';
+  PAGE_URL_REST     = 'http://biotronica.duckdns.org';
+  PAGE_URL_EN       = 'https://biotronica.duckdns.org';
+  PAGE_URL_PL       = 'https://biotronica.duckdns.org';
 
   ATLAS_SUBFOLDER   = 'atlas';   // Subfolder of exe file where be placed pictures
   USER_AGENT        = 'biotronics';
